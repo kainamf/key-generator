@@ -43,7 +43,7 @@ Senha   Itens                 Valor
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-senhas-lanchonete.git
+git clone https://github.com/kainamf/key-generator.git
 cd gerador-senhas-lanchonete
 ```
 
