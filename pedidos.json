@@ -1,0 +1,16 @@
+{
+    "data": "2025-08-17",
+    "pedidos": [
+        {
+            "senha": 8,
+            "hora": "00:08:55",
+            "conteudo": {
+                "itens": [
+                    "X-Burger",
+                    "Batata"
+                ],
+                "valor": 32.5
+            }
+        }
+    ]
+}
