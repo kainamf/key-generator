@@ -13,7 +13,12 @@ Este projeto é um **gerador de senhas com pedidos atrelados**, pensado para uso
 python src/main.py
 Digite um pedido no formato JSON:
 
-{"itens": ["X-Burger", "Batata"], "valor": 32.50}
+{
+    "itens":
+        ["X-Burger", "Batata"],
+    "valor": 32.50
+}
+
 Saída no painel:
 
 [ SENHA ATUAL: 1515 ]
